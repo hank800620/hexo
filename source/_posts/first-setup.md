@@ -2,6 +2,7 @@
 title: First Setup
 categories: [Hexo]
 tags: [hexo]
+date: 2016-10-25
 ---
 <font size="4"> 總算初步利用 [Hexo](https://hexo.io/)和 [MeiliDu](https://github.com/HoverBaum/meilidu-hexo)把網站建起來，被MeiliDu的風景照吸引，就決定用它。要注意文章的編碼要用UTF-8，否則無法正常顯示中文。Markdown的用法可以參照 [WowUbuntu](http://wowubuntu.com/markdown/)。</font>
 
