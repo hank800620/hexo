@@ -1,12 +1,12 @@
 ---
-title: 歐陽輝(Hui OuYang)
+title: 歐陽輝(Hank OuYang)
 ---
-Interests: Machine Learning, Brain Computer Interface,  Video Coding
+Interests: Machine Learning, Video Coding, Brain Computer Interface
 
 Current Work:
-Engineer @Mediatek
+Multimedia R&D @Mediatek
 
-Education:
+Experience:
 EECS, CS @NCTU
 
 Contact Me:
