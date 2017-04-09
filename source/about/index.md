@@ -1,7 +1,8 @@
 ---
 title: 歐陽輝(Hank OuYang)
 ---
-Interests: Machine Learning, Video Coding, Brain Computer Interface
+Interest: 
+Deep Learning, Video Coding, Brain Computer Interface
 
 Current Work:
 Multimedia R&D @Mediatek
