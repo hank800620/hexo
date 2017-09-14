@@ -1,6 +1,6 @@
 ---
 title: Hello World
-categories: [Hexo]
+categories: [Website]
 tags: [hexo]
 date: 2016-10-23
 ---

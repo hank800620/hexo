@@ -6,6 +6,10 @@ footerTextColor = backgroundColor
 
 .footer
 	background-color: footerBackgroundColor
+	background-image: url("../img/yanghan-sunrise.jpg")
+	background-position: center
+	background-repeat: no-repeat
+	background-size: cover
 	color: footerTextColor
 	padding-top: 2rem
 	padding-bottom: 1rem
@@ -25,7 +29,7 @@ footerTextColor = backgroundColor
 	width: contentWidth
 
 .footer__element
-	padding: 1rem
+	//padding: 1rem
 	width: (contentWidth / 3)
 	box-sizing: border-box
 	h5
@@ -49,9 +53,12 @@ footerTextColor = backgroundColor
 	list-style-type: none
 
 .footer a
-	link-underline(footerBackgroundColor, footerTextColor, footerTextColor)
+	//link-underline(footerBackgroundColor, footerTextColor, footerTextColor)
+	//&:hover
+		//link-underline(footerBackgroundColor, mainColor, mainColor)
+	link-underline(rgba(0,0,0,0), footerTextColor, footerTextColor)
 	&:hover
-		link-underline(footerBackgroundColor, mainColor, mainColor)
+		link-underline(rgba(0,0,0,0), footerBackgroundColor, footerBackgroundColor)
 
 .footer-credit
 	margin-top: 2rem
