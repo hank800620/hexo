@@ -5,6 +5,9 @@ tags: [release, hexo]
 date: 2016-10-25
 ---
 #### 20170914 Released
+Updated posts:
+- About
+
 New bug-fixes/enhancements:
 - Add picture in Footer.
 - Change Footer's layout.
@@ -17,6 +20,7 @@ Future plans:
 - Website icon.
 
 <!--more-->
+
 <br/>
 
 #### 20170409 Released
